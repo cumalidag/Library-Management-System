@@ -1,0 +1,5 @@
+Açlık,Knut Hamsun,874512,6, 24.01.2024 20:24:21
+Yaşar Ne Yaşar Ne Yaşamaz,Aziz Nesin,456789,6, 24.01.2024 20:24:24
+Çalıkuşu,Reşat Nuri Güntekin,567890,9, 24.01.2024 20:24:27
+Çanlar Kimin İçin Çalıyor,Ernest Hemingway,345678,6, 24.01.2024 20:24:30
+Sokakta,Bahattin Özkişi,890123,6, 24.01.2024 20:24:35

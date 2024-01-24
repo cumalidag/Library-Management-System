@@ -1,0 +1,52 @@
+Açlık,Knut Hamsun,874512,5
+Aganta Burina Burinata,Halikarnas Balıkçısı,235689,8
+Akdeniz,Panait Istrati,987456,5
+Ayaşlı ile Kiracıları,Memduh Şevket Esendal,124567,10
+Babalar ve Oğullar,Turgenyev,789123,6
+Beyaz Diş,Jack London,654321,9
+Beyaz Gemi,Cengiz Aytmatov,456789,7
+Bir Bilim Adamının Romanı,Oğuz Atay,123456,8
+Cemo,Kemal Bilbaşar,789012,5
+Çalıkuşu,Reşat Nuri Güntekin,567890,8
+Çanlar Kimin İçin Çalıyor,Ernest Hemingway,345678,5
+Derviş ve Ölüm,Mehmet Selimoviç,234567,8
+Dokuzuncu Hariciye Koğuşu,Peyami Safa,901234,6
+Don Kişot,Cervantes,876543,10
+Drina Köprüsü,İvo Andriç,345678,8
+Drina’da Son Gün,Faik Baysal,789012,5
+Esir Şehrin İnsanları,Kemal Tahir,901234,6
+Eskicinin Oğulları,Orhan Kemal,567890,7
+Fareler ve İnsanlar,John Steinbeck,876543,9
+Fatih-Harbiye,Peyami Safa,123456,5
+Gora,Rabindranath Tagore,234567,8
+Gün Olur Asra Bedel,Cengiz Aytmatov,345678,7
+İbrahim Efendi Konağı,Samiha Ayverdi,456789,6
+İki Şehrin Hikayesi,Charles Dickens,567890,9
+Kalpaklılar,Samim Kocagöz,678901,8
+Kaplumbağalar,Fakir Baykurt,789012,7
+Karartma Geceleri,Rıfat Ilgaz,890123,6
+Kayıp Aranıyor,Sait Faik Abasıyanık,901234,8
+Kiralık Konak,Yakup Kadri Karaosmanoğlu,123456,6
+Kuyruklu Yıldız Altında Bir İzdivaç,Hüseyin Rahmi Gürpınar,234567,9
+Kuyucaklı Yusuf,Sabahattin Ali,345678,8
+Küçük Ağa,Tarık Buğra,456789,7
+Madame Bovary,Flaubert,567890,10
+Mai ve Siyah,Halit Ziya Uşaklıgil,678901,9
+Mor Salkımlı Ev,Halide Edib Adıvar,789012,8
+Onlar da İnsandı,Cengiz Dağcı,890123,7
+Ölü Canlar,Gogol,901234,6
+Robinson Crusoe,Daniel Defoe,123456,9
+Sahnenin Dışındakiler,Ahmet Hamdi Tanpınar,234567,8
+Savaş ve Barış,Tolstoy,345678,7
+Sefiller,Victor Hugo,456789,6
+Sergüzeşt,Samipaşazade Sezai,567890,8
+Ses ve Öfke,William Faulkner,678901,7
+Sinekli Bakkal,Halide Edib Adıvar,789012,8
+Sokakta,Bahattin Özkişi,890123,5
+Suç ve Ceza,Dostoyevski,901234,7
+Tütün Zamanı,Necati Cumalı,123456,8
+Vadideki Zambak,Balzac,234567,9
+Yaban,Yakup Kadri Karaosmanoğlu,345678,6
+Yaşar Ne Yaşar Ne Yaşamaz,Aziz Nesin,456789,5
+Yedinci Gün,Orhan Hançerlioğlu,567890,9
+Yılkı Atı,Abbas Sayar,678901,8
